@@ -1,10 +1,8 @@
 package pro.sky.auction_coursework.repository;
 
-import org.springframework.data.domain.Page;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
-import pro.sky.auction_coursework.dto.FullLot;
 import pro.sky.auction_coursework.model.Bid;
 
 import java.util.Optional;

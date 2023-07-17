@@ -9,11 +9,4 @@
     <include file="init.table/create-allBids-table.xml" relativeToChangelogFile="true"/>
 
 
-<!--    <include file="init.table/create-report-table.xml" relativeToChangelogFile="true"/>-->
-<!--    <include file="init.table/create-authorities-table.xml" relativeToChangelogFile="true"/>-->
-<!--    <include file="init.table/fill-authorities-table.xml" relativeToChangelogFile="true"/>-->
-<!--    <include file="init.table/create-auth_user-table.xml" relativeToChangelogFile="true"/>-->
-<!--    <include file="init.table/fill-auth_user-table.xml" relativeToChangelogFile="true"/>-->
-
-
 </databaseChangeLog>

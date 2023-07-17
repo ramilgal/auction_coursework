@@ -1,4 +1,4 @@
-package exceptions;
+package pro.sky.auction_coursework.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

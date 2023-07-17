@@ -1,4 +1,4 @@
-package Mapping;
+package pro.sky.auction_coursework.Mapping;
 
 import org.springframework.stereotype.Component;
 import pro.sky.auction_coursework.dto.Bid;
